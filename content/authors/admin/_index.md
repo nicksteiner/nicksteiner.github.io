@@ -97,34 +97,26 @@ skills:
     items:
       - name: Remote Sensing
         percent: 100
-        icon: 🛰️
       - name: Geospatial Analysis
         percent: 95
-        icon: 🗺️
       - name: Data Science
         percent: 85
-        icon: 📊
   - name: Programming
     items:
       - name: Python
         percent: 90
-        icon: 🐍
       - name: MATLAB
         percent: 80
-        icon: 🔬
       - name: C, C++
         percent: 25
-        icon: 🅲
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         percent: 80
-        icon: 🥾
       - name: Weightlifting
         percent: 70
-        icon: 🏋️‍♂️
 
 ---
 ## About Me
