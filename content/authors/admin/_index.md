@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof Nick Steiner
+title: Nick Steiner, PhD
 
 # Full name (for SEO)
 first_name: Nicholas
