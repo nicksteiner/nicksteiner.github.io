@@ -112,8 +112,8 @@ skills:
       - name: MATLAB
         percent: 80
         icon: function
-      - name: R
-        percent: 75
+      - name: R, C, C++
+        percent: 25
         icon: chart-line-up
   - name: Hobbies
     color: '#eeac02'
@@ -128,24 +128,6 @@ skills:
       - name: Skiing
         percent: 60
         icon: skier
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-awards:
-  - title: Group Achievement Award: CARVE Team
-    url: https://science.nasa.gov/mission/carve/
-    date: 2014-01-01
-    awarder: NASA
-    icon: assets/media/icons/NASA_logo.svg
-    summary: |
-      The Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE) was a NASA airborne science campaign designed to study the changing carbon dynamics in Arctic and boreal ecosystems. CARVE provided critical insights into how climate change affects carbon fluxes in the Arctic.
 
 ---
 ## About Me
