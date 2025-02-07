@@ -159,10 +159,10 @@ languages:
 awards:
   - title: Group Achievement Award: CARVE Team
     url: https://science.nasa.gov/mission/carve/
-    date: '2014'
+    date: '01-01-2014'
     awarder: NASA
     icon: assets/media/icons/NASA_logo.svg
-    summary: |
+    summary: |2-
       The Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE) was a NASA airborne science campaign designed to study the changing carbon dynamics in Arctic and boreal ecosystems. Using aircraft-mounted sensors, CARVE collected data on atmospheric greenhouse gas concentrations, surface temperature, and soil moisture across Alaska to improve understanding of permafrost thaw and its impact on carbon emissions. The mission, which ran from 2012 to 2015, provided critical insights into how climate change affects carbon fluxes in the Arctic, helping to refine global climate models
 
 
