@@ -17,16 +17,16 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/cv.pdf
     design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: background.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
@@ -35,11 +35,13 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      I am a Research Assistant Professor in the Department of Earth and Atmospheric Sciences at City College of New York. My research focuses on remote sensing, surface hydrology, and environmental science, with applications in wetland monitoring, carbon cycle dynamics, and geospatial intelligence.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+      I work with NASA missions such as NISAR and ECOSTRESS, developing methods to improve satellite-based observations of surface water dynamics, soil moisture, and vegetation structure.
+
+      Please reach out to collaborate! 🚀
+
+
     design:
       columns: '1'
   - block: collection
