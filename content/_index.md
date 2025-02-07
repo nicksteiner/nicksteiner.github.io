@@ -39,9 +39,7 @@ sections:
 
       I work with NASA missions such as NISAR and ECOSTRESS, developing methods to improve satellite-based observations of surface water dynamics, soil moisture, and vegetation structure.
 
-      Please reach out to collaborate! 🚀
-
-
+      Please reach out to collaborate! 🚀  
     design:
       columns: '1'
   - block: collection
