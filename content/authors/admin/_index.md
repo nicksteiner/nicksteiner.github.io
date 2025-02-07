@@ -2,9 +2,6 @@
 # Display name
 title: Prof Nick Steiner
 
-# Name pronunciation (optional)
-name_pronunciation: ''
-
 # Full name (for SEO)
 first_name: Nicholas
 last_name: Steiner
@@ -169,7 +166,7 @@ awards:
       The Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE) was a NASA airborne science campaign designed to study the changing carbon dynamics in Arctic and boreal ecosystems. Using aircraft-mounted sensors, CARVE collected data on atmospheric greenhouse gas concentrations, surface temperature, and soil moisture across Alaska to improve understanding of permafrost thaw and its impact on carbon emissions. The mission, which ran from 2012 to 2015, provided critical insights into how climate change affects carbon fluxes in the Arctic, helping to refine global climate models
 
 
-
+---
 ## About Me
 
 Nicholas Steiner is a Research Assistant Professor in the Department of Earth and Atmospheric Sciences at the City College of New York. His research focuses on the applied science of remote sensing for terrestrial ecosystems and surface hydrology, with expertise in using microwave remote sensing observations and modeling to advance understanding of surface hydrology, wetland dynamics, and the water and carbon cycles.
