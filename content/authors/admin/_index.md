@@ -52,7 +52,7 @@ education:
     date_start: 2008-01-01
     date_end: 2012-12-31
     summary: |
-      Thesis on _Microwave Remote Sensing of Seasonal Freeze/Thaw Dynamics_. Supervised by Prof. Kyle McDonald. Contributed to NASA CARVE and SMAP mission validation efforts.
+      Thesis on _ Monitoring Surface Melt Processes on Ice Sheets_. Supervised by Prof. Marco Tedesco.
   - area: MA, Earth Science
     institution: The City College of New York, City University of New York
     date_start: 2005-01-01
