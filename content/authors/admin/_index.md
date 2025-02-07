@@ -141,7 +141,7 @@ languages:
 awards:
   - title: Group Achievement Award: CARVE Team
     url: https://science.nasa.gov/mission/carve/
-    date: '2014'
+    date: 2014-01-01
     awarder: NASA
     icon: assets/media/icons/NASA_logo.svg
     summary: |
