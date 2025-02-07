@@ -29,7 +29,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:nsteiner@ccny.cuny.edu'
     label: E-mail Me
-  - icon: Bluesky_Logo
+  - icon: Bluesky
     url: https://bsky.app/nsteiner
   - icon: brands/github
     url: https://github.com/nicksteiner
