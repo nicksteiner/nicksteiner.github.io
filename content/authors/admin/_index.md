@@ -47,24 +47,21 @@ interests:
   - Geospatial Intelligence
 
 education:
-  - area: PhD Earth and Environmental Science
+  - area: PhD, Earth and Environmental Science
     institution: The Graduate Center, City University of New York
     date_start: 2008-01-01
     date_end: 2012-12-31
     summary: |
       Thesis on _Microwave Remote Sensing of Seasonal Freeze/Thaw Dynamics_. Supervised by Prof. Kyle McDonald. Contributed to NASA CARVE and SMAP mission validation efforts.
-  - area: MA Geology
-    institution: City College of New York, City University of New York
+  - area: MA, Earth Science
+    institution: The City College of New York, City University of New York
     date_start: 2005-01-01
     date_end: 2007-12-31
     summary: |
       Research on hydrological processes using remote sensing.
-  - area: BA Environmental Science
+  - area: BA, Arts and Sciences
     institution: University of Colorado, Boulder
-    date_start: 2000-01-01
     date_end: 2004-12-31
-    summary: |
-      Undergraduate research in ecological monitoring and GIS applications.
 
 work:
   - position: Research Assistant Professor
