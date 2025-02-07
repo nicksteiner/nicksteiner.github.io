@@ -25,7 +25,6 @@ organizations:
     url: "https://www.ccny.cuny.edu/eas"
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:nsteiner@ccny.cuny.edu'
@@ -39,8 +38,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=RkTU7-YAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/my-orcid?orcid=0000-0001-5943-8400
-
+    url: https://orcid.org/0000-0001-5943-8400
 
 interests:
   - Remote Sensing
@@ -68,15 +66,12 @@ education:
     summary: |
       Undergraduate research in ecological monitoring and GIS applications.
 
-
-
 work:
   - position: Research Assistant Professor
     company_name: City College of New York, CUNY
     company_url: 'https://www.ccny.cuny.edu/eas'
     date_start: 2018-01-01
-    date_end: ''
-    summary: |2-
+    summary: |
       - Conduct research in remote sensing for terrestrial ecosystems and surface hydrology.
       - Lead investigator on multiple NASA-funded projects.
       - Mentor graduate and undergraduate students in research initiatives.
@@ -97,34 +92,27 @@ work:
       - Supported NASA SMAP and Arctic Boreal Vulnerability Experiment (ABoVE) campaigns.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Remote Sensing
-        description: ''
         percent: 100
         icon: satellite-dish
       - name: Geospatial Analysis
-        description: ''
         percent: 95
         icon: map
       - name: Data Science
-        description: ''
         percent: 85
         icon: chart-bar
   - name: Programming
     items:
       - name: Python
-        description: ''
         percent: 90
         icon: code-bracket
       - name: MATLAB
-        description: ''
         percent: 80
         icon: function
       - name: R
-        description: ''
         percent: 75
         icon: chart-line-up
   - name: Hobbies
@@ -132,15 +120,12 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ''
         percent: 80
         icon: person-hiking
       - name: Photography
-        description: ''
         percent: 70
         icon: camera
       - name: Skiing
-        description: ''
         percent: 60
         icon: skier
 
@@ -153,9 +138,6 @@ languages:
     percent: 25
 
 # Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Group Achievement Award: CARVE Team
     url: https://science.nasa.gov/mission/carve/
@@ -163,8 +145,7 @@ awards:
     awarder: NASA
     icon: assets/media/icons/NASA_logo.svg
     summary: |
-      The Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE) was a NASA airborne science campaign designed to study the changing carbon dynamics in Arctic and boreal ecosystems. Using aircraft-mounted sensors, CARVE collected data on atmospheric greenhouse gas concentrations, surface temperature, and soil moisture across Alaska to improve understanding of permafrost thaw and its impact on carbon emissions. The mission, which ran from 2012 to 2015, provided critical insights into how climate change affects carbon fluxes in the Arctic, helping to refine global climate models
-
+      The Carbon in Arctic Reservoirs Vulnerability Experiment (CARVE) was a NASA airborne science campaign designed to study the changing carbon dynamics in Arctic and boreal ecosystems. CARVE provided critical insights into how climate change affects carbon fluxes in the Arctic.
 
 ---
 ## About Me
