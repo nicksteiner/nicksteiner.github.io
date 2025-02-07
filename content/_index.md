@@ -19,12 +19,12 @@ sections:
         text: Download CV
         url: uploads/cv.pdf
     design:
-      css_class: custom-text-color
+      css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: background.jpg
+          filename: background1.jpg
           filters:
             brightness: 1.0
           size: cover
