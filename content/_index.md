@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-      I am a Research Assistant Professor in the Department of Earth and Atmospheric Sciences at City College of New York. My research focuses on remote sensing, surface hydrology, and environmental science, with applications in wetland monitoring, carbon cycle dynamics, and geospatial intelligence.
+        I am a Research Assistant Professor in the Department of Earth and Atmospheric Sciences at City College of New York. My research focuses on remote sensing, surface hydrology, and environmental science, with applications in wetland monitoring, carbon cycle dynamics, and geospatial intelligence.
 
-      I work with NASA missions such as NISAR and ECOSTRESS, developing methods to improve satellite-based observations of surface water dynamics, soil moisture, and vegetation structure.
+        I work with NASA missions such as NISAR and ECOSTRESS, developing methods to improve satellite-based observations of surface water dynamics, soil moisture, and vegetation structure.
 
-      Please reach out to collaborate! 🚀  
+        Please reach out to collaborate! 🚀  
     design:
       columns: '1'
   - block: collection
